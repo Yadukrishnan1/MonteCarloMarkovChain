@@ -1,0 +1,10 @@
+
+Estimation of the parameters of a Bayesian linear regression model.
+
+Problem:
+
+You are tasked with estimating the parameters of a Bayesian linear regression model to analyze the relationship between a response variable and multiple predictor variables. The goal is to use a Monte Carlo Markov Chain algorithm to obtain the posterior distribution of the model parameters and make inferences about the relationship between the variables.
+
+Data:
+
+For this problem, let's consider a synthetic dataset with a response variable (Y) and two predictor variables (X1 and X2). The dataset is provided in the directory.
