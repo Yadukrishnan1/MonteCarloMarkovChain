@@ -17,5 +17,5 @@ To run the `mcmc.py` script, you will need Python 3.8 and the following librarie
 If you would like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
