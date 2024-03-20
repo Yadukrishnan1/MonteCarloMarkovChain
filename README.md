@@ -13,9 +13,6 @@ The `mcmc.py` script can be used to perform MCMC sampling and analyze the poster
 ## Installation
 To run the `mcmc.py` script, you will need Python 3.8 and the following libraries: PyMC3, NumPy, Pandas, and ArviZ. You can install the necessary dependencies using the following command:
 
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request.
-
 ## License
 This project is licensed under the MIT License
 
